@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Feel free to check out my repositories. Please kee
 
 Some other projects are done during my coding bootcamp at General Assembly Sydney - what a great experience! 🔭
 
-## About ME 😄
+### About ME 😄
 
 🌱 I’m currently learning NextJS, keep improving ReactJS and thinking about Typescript. Any other suggestions?
 
