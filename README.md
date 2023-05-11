@@ -8,7 +8,7 @@ Some other projects are done during my coding bootcamp at General Assembly Sydne
 
 🤔 I’m now looking for any openings for projects and/or opportunities as a junior developer! You can easily get in touch with me through LinkedIn or email!
 
-
+<a href="http://falko-kammel.dev/" target="_blank">Visit my website!</a>
 
 ### About ME 😄
 
