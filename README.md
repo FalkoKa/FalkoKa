@@ -1,12 +1,12 @@
 ### Hello World! 👋
 
-Welcome to my GitHub profile! Feel free to check out my repositories. Please keep in mind that some of them are just from when I started stepping into the world of software development (e.g. my calculator app, rock-paper-scissors, landingpage or the odin-signup-form). I kept those projects public as momories for when I started!
+Welcome to my GitHub profile! Feel free to check out my repositories. Please keep in mind that some of them are just from when I started stepping into the world of software development (e.g. my calculator app, rock-paper-scissors, landingpage or the odin-signup-form). I kept those projects public as memories for when I started!
 
-Some other projects are done during a coding bootcamp at General Assembly Sydney that I just completed in May 2023 - what a great experience! 🔭
+Some other projects are done during a coding bootcamp at General Assembly Sydney that I completed in May 2023 - what a great experience! 🔭
 
-🌱 I’m currently learning NextJS, keep improving ReactJS and thinking about Typescript. Any other suggestions?
+🌱 I’m currently learning more about Blockchain and Solidity. Super interesting!!
 
-🤔 I’m now looking for any openings for projects and/or opportunities as a junior developer! You can easily get in touch with me through LinkedIn or email!
+🤔 I’m looking for any 100% remote openings for projects and/or opportunities as a junior developer! You can easily get in touch with me through my <a href="https://www.linkedin.com/in/falko-kammel/" target="_blank">LinkedIn</a>, <a href="http://falko-kammel.dev/" target="_blank">Portfolio</a> or email!
 
 <a href="http://falko-kammel.dev/" target="_blank">Visit my website!</a>
 
@@ -16,6 +16,4 @@ Before I got into coding, I was studying law in Germany and an MBA at RMIT in Vi
 
 Facts about me: 
 - I am very much into details, can even be OCD about following certain conventions, etc... hope that is not a problem!
-
 - I am passionate about trading (US government bonds futures), but I treat that only as a hobby nowadays >)).
-
