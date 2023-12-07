@@ -12,7 +12,7 @@ Some other projects are done during a coding bootcamp at General Assembly Sydney
 
 ### About ME 😄
 
-Before I got into coding, I was studying law in Germany and an MBA at RMIT in Vietnam (it is an Austrialian University though). Why the career change? I love new challenges and felt that my values have better alignment in this industry than in the business and legal field. 
+Before I got into coding, I was studying law in Germany and an MBA at RMIT University Melbourne. Why the career change? I love new challenges and felt that my values have better alignment in this industry than in the business and legal field. 
 
 I am currently working for Hypoport SE. A German tech company in the finance and insurance world! 
 <a href="https://github.com/FalkoKammel" target="_blank">My GitHub profile at work.</a>
