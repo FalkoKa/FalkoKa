@@ -7,5 +7,3 @@ Software Engineer · TypeScript, Next.js, AWS, LLM integration
 Background in law (LL.B.) and business (MBA). Based near Frankfurt, open to remote roles.
 
 📫 falkokammel@googlemail.com · [LinkedIn](https://linkedin.com/in/falko-kammel)
-
-  Small open-source contribution: [fixed the order of the Object Types docs](https://github.com/microsoft/TypeScript-Website/pull/2841) on the official TypeScript website.
